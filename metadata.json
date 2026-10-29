@@ -1,0 +1,6 @@
+{
+  "name": "CampuServe - Digital College Canteen Platform",
+  "description": "Smart digital canteen ordering platform for college students: browse menus, pre-order for class breaks, beat peak hour queues, pay online, and track live pickup tokens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
